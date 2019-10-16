@@ -72,7 +72,7 @@ if __name__ == '__main__':
     # -----------------------------------------------------------------------------------------------------------------
     # Count the number of shipments processed.
     len_oid = len(oids)
-    print('Process completes.', len_oid, 'number of shipments are updated. This window will be closed in 10 seconds.')
+    print('Process completes.', len_oid, 'number of shipments are updated. This window will be closed in 30 seconds.')
     # -----------------------------------------------------------------------------------------------------------------
     # Record the end time of this execution.
     end = time.time()
